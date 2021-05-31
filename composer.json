@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Wobeto\\ModelFillableControle\\": "Wobeto/ModelFillableControle/"
+            "Wobeto\\ModelFillableControl\\": "Wobeto/ModelFillableControl/"
         }
     },
     "require": {
