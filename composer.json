@@ -3,6 +3,7 @@
     "description": "A Class to control fillable data model input",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Fernando Wobeto",
