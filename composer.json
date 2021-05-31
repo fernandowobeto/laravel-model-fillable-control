@@ -1,0 +1,20 @@
+{
+    "name": "wobeto/laravel-model-fillable-control",
+    "description": "A Class to control fillable data model input",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Wobeto",
+            "email": "fernandowobeto@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wobeto\\ModelFillableControle\\": "Wobeto/ModelFillableControle/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
